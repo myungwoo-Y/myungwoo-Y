@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Myungwoo's github stats](https://github-readme-stats.vercel.app/api?username=myungwoo-Y&show_icons=true)
 
-[![solved.ac tier](generate_badge.svg)](https://solved.ac/yang6676)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yang6676)](https://solved.ac/yang6676)
