@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a developer who is interested in React.js and Front-end. 😄
+
+I like to develop many interesting things(So far, most have been developing web page using react.js) 
+
+The main languages are JavaScript, and other languages can be used at basic levels. 
+
 ![Myungwoo's github stats](https://github-readme-stats.vercel.app/api?username=myungwoo-Y&show_icons=true)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yang6676)](https://solved.ac/yang6676)
