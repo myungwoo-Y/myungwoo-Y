@@ -22,7 +22,7 @@ I like to develop many interesting things(So far, most have been developing web 
 <img src="assets/react.gif" width="30px" height="30px"></img>
 
 
-The main languages are JavaScript, and other languages can be used at basic levels. 
+The main language is JavaScript, and other languages can be used at basic levels. 
 <img src="assets/js.gif" width="30px" height="30px"></img>
 
 
