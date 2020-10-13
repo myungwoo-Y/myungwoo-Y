@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I am a developer who is interested in React.js and Front-end. 😄
 
-I like to develop many interesting things(So far, most have been developing web page using react.js) 
+I like to develop many interesting things(So far, most have been developing web page using react.js) <img src="assets/react.gif" width="30px" height="30px"></img>
+
 
 The main languages are JavaScript, and other languages can be used at basic levels. 
 
