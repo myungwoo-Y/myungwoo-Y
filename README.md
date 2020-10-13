@@ -1,4 +1,4 @@
-### Hi there <img src="assets/hi.gif" width="40px" height="40px"></img>
+### Hi there ! <img src="assets/hi.gif" width="40px" height="40px"></img>
 
 
 <!--
