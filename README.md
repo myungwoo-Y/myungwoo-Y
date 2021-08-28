@@ -1,4 +1,4 @@
-### Hi there ! <img src="assets/hi.gif" width="40px" height="40px"></img>
+### Hi there ! 
 
 
 <!--
@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a developer who is interested in React.js and Front-end. 😄
+I am a web developer who is interested in <b>React.js</b> and <b>Spring</b>. 😄
 
-I like to develop many interesting things(So far, most have been developing web page using react.js) 
-<img src="assets/react.gif" width="30px" height="30px"></img>
-
+I like to develop many interesting things(So far, most have been developing web page using react.js) <img src="assets/react.gif" width="25px" height="25px"></img>
 
 The main language is JavaScript, and other languages can be used at basic levels. 
-<img src="assets/js.gif" width="30px" height="30px"></img>
+
+I'm making a effort to learn how to make a large scale application using React and Spring now.
 
 
 ![Myungwoo's github stats](https://github-readme-stats.vercel.app/api?username=myungwoo-Y&show_icons=true)
