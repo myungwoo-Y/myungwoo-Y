@@ -1,29 +1,25 @@
-### Hi there ! 
+# Hi, I'm Myungwoo
 
+Frontend engineer specializing in React, Next.js, and TypeScript.
+I build and operate web products, from frontend architecture
+to testing and delivery.
 
-<!--
-**myungwoo-Y/myungwoo-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently leading the User Squad at LG U+ VoltUp.
+- Built the VoltUp website and consumer app frontend from the ground up.
+- Previously at Coupang, building membership and authentication
+  experiences with Next.js and NestJS.
+- Hands-on experience with WebView integration, performance
+  optimization, shared frontend libraries, and CI/CD.
+- Relocating to Munich, Germany.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [VoltUp](https://voltup.kr/) — EV charging website and consumer app frontend.
+- [OwnLift](https://ownlift.vercel.app/) — My side project, a strength training app.
 
-I am a front-end developer who is interested in <b>React</b> and <b>node.js</b>. 😄
+## Technologies
 
-I like to develop many interesting things(So far, most have been developing web page using react.js)
+React, Next.js, TypeScript, TanStack Query, Vitest, MSW
+Node.js, NestJS, Kotlin, Spring Boot
 
-The main language is JavaScript, and other languages can be used at basic levels. 
-
-I take an interest in how to make a large scale application using React and Node.js.
-
-
-![Myungwoo's github stats](https://github-readme-stats.vercel.app/api?username=myungwoo-Y&show_icons=true)
-
+[LinkedIn](https://www.linkedin.com/in/woo-myungwoo-yang-8bb859171/)
