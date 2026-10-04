@@ -4,7 +4,7 @@ Frontend engineer specializing in React, Next.js, and TypeScript.
 I build and operate web products, from frontend architecture
 to testing and delivery.
 
-- Currently leading the User Squad at LG U+ VoltUp.
+- Currently working in the User Squad at LG U+ VoltUp.
 - Built the VoltUp website and consumer app frontend from the ground up.
 - Previously at Coupang, building membership and authentication
   experiences with Next.js and NestJS.
