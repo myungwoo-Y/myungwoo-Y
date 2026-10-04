@@ -10,7 +10,6 @@ to testing and delivery.
   experiences with Next.js and NestJS.
 - Hands-on experience with WebView integration, performance
   optimization, shared frontend libraries, and CI/CD.
-- Relocating to Munich, Germany.
 
 ## Selected work
 
